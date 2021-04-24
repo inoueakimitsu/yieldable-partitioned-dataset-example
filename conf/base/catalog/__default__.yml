@@ -1,0 +1,4 @@
+example_dataset:
+  type: yieldable_partitioned_dataset_example.extras.datasets.yieldable_dataset.YieldablePartitionedDataSet
+  path: data/01_raw/example_dataset
+  dataset: pandas.CSVDataSet
